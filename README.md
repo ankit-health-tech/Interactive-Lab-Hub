@@ -1,6 +1,6 @@
 # Interactive-Lab-Hub
 
-Completed Labs for John Q. Student
+Completed Labs for Ankit Malhan (am2996)
 
-1. [John Q's Lab 1](//github.com/johnqstudent/idd-fa18-lab1)
-2. [John Q's Lab 2](//github.com/johnqstudent/idd-fa18-lab2)
+1. [Ankit M. Lab 1](https://github.com/ankit-health-tech/lab1-devices/blob/master/README.md)
+
